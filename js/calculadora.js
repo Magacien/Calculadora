@@ -45,6 +45,36 @@ function numero5() {
     document.getElementById('resultado').innerHTML = actual + sumado
 }
 
+function numero6() {
+    let actual = document.getElementById('resultado').innerHTML;
+    let sumado = document.getElementById('numero6');
+    document.getElementById('resultado').innerHTML = actual + sumado
+}
+
+function numero7() {
+    let actual = document.getElementById('resultado').innerHTML;
+    let sumado = document.getElementById('numero6');
+    document.getElementById('resultado').innerHTML = actual + sumado
+}
+
+function numero8() {
+    let actual = document.getElementById('resultado').innerHTML;
+    let sumado = document.getElementById('numero6');
+    document.getElementById('resultado').innerHTML = actual + sumado
+}
+
+function numero9() {
+    let actual = document.getElementById('resultado').innerHTML;
+    let sumado = document.getElementById('numero6');
+    document.getElementById('resultado').innerHTML = actual + sumado
+}
+
+function numero0() {
+    let actual = document.getElementById('resultado').innerHTML;
+    let sumado = document.getElementById('numero6');
+    document.getElementById('resultado').innerHTML = actual + sumado
+}
+
 
 
 
