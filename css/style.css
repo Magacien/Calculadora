@@ -8,7 +8,24 @@
     background-color: #5882FA;
     width: fit-content;
     margin: auto;
-    margin-top: 35px
+    margin-top: 35px;
+}
+
+.boton-igual {
+    padding: 0px 18px 18px 18px;
+}
+
+.boton-igual button {
+    width: 100%;
+    background-color: #aaa;
+    color: #fff;
+    border: none;
+    font-size: 50px;
+    padding: 0px
+}
+
+.teclas {
+    display: flex;
 }
 
 .pantalla {
@@ -19,6 +36,28 @@
     padding: 18px 9px 18px 18px;
 }
 
+.operacion {
+    padding: 18px 18px 18px 9px;
+}
+
+#resultado {
+    background-color: #666;
+    color: #eee;
+    padding: 6px;
+    font-family: monospace;
+    font-size: 20px;
+}
+
+.operacion button {
+    display: block;
+    width: 54px;
+    height: 54px;
+    padding: 9px 15px;
+    background-color: #000;
+    color: #fff;
+    border: none;
+}
+
 .numeros div {
     text-align: center;
 }
@@ -26,7 +65,7 @@
 .numeros button {
     border: 0px;
     background-color: #fff;
-    transition: all 0.09s
+    transition: all 0.09s;
 }
 
 .numeros button:hover {
