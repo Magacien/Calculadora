@@ -82,7 +82,7 @@ function multiplicacion() {
     document.getElementById('resultado').innerHTML = actual + sumado
 }
 
-
+dfgdfgdfgdfg
 
 
 
